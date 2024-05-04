@@ -18,6 +18,7 @@ h2 {
 }
 
 .paragrafs {
+    display: block;
     color: aquamarine;
     font-size: 16px;
 }
@@ -34,5 +35,4 @@ p {
 .camp {
     display: block;
     margin: 30px auto;
-
 }
